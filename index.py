@@ -9,8 +9,8 @@ from movies_scraper import search_movies, get_movie
 
 
 TOKEN = os.getenv("TOKEN")
-URL = os.getenv("https://moviesfinderzbot.vercel.app")
-bot = Bot(6286137248:AAGbnzyNyIPpJCKdA_HKaW8lwYUUDa6sR2k
+URL = os.getenv("movies-downloader-59oija9ds-kayceechuks01-gmailcom.vercel.app")
+bot = Bot(6074973448:AAFprp913lnkjj845e04iaH8HeoPREuVoFM)
 
 
 def welcome(update, context) -> None:
