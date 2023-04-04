@@ -14,8 +14,8 @@ bot = Bot(TOKEN)
 
 
 def welcome(update, context) -> None:
-    update.message.reply_text(f"Hello {update.message.from_user.first_name}, Welcome to SB Movies.\n"
-                              f"🔥 Download Your Favourite Movies For 💯 Free And 🍿 Enjoy it.")
+    update.message.reply_text(f"Hello {update.message.from_user.first_name}, Welcome to Online Movie Downloader.\n"
+                              f"🔥 Download Your Favourite Movies For 💯 Free And 🍿 Enjoy it. Also Don't Forgot to subscribe our Official Channel About Shopping Deals @topofferoftheday Our Website: https://topofferoftheday.in")
     update.message.reply_text("👇 Enter Movie Name 👇")
 
 
