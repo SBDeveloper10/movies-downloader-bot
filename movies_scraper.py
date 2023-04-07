@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 
-url_list = {}
-api_key = "ENTER YOUR API KEY HERE"
+url_list = {}6002580169:AAFcJQ_wBwPqOkYe0AcjInZKJ571HQ2msK4"
+api_key = "
 
 
 def search_movies(query):
